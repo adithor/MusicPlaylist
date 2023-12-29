@@ -2,7 +2,7 @@
 
 <h2>Introduction</h2>
 
-This is a simple command-line based playlist management program written in C++. The program allows users to create, modify, and manage playlists. Users can add new songs, delete songs, search for songs, play songs, and view recently played and sorted playlists.
+This is a simple command-line-based playlist management program written in C++. The program allows users to create, modify, and manage playlists. Users can add new songs, delete songs, search for songs, play songs, and view recently played and sorted playlists.
 
 <h2>Features</h2>
 
@@ -31,11 +31,14 @@ This is a simple command-line based playlist management program written in C++. 
 Compile the Program: Use a C++ compiler to compile the program. For example:
 
 bash
+
 Copy code
 g++ playlist.cpp -o playlist
+
 Run the Program: Execute the compiled program:
 
 bash
+
 Copy code
 ./playlist
 
